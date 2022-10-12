@@ -1,0 +1,8 @@
+/db
+/incremental_db
+/work
+
+*.bak
+*.mti
+*.mpf
+*.wlf

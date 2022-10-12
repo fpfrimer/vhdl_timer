@@ -8,7 +8,7 @@ entity timer_procedimento is
     port (
         clk     :   in      std_logic;      -- Sinal de clock de entrada
         nRst    :   in      std_logic;      -- Sinal de reset, ativo em nível baixo
-        s, m, h :   inout   integer        -- Sinais para contar e mostrar o tempo
+        s, m, h :   inout   integer         -- Sinais para contar e mostrar o tempo
     );
 end entity;
 
