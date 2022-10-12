@@ -10,7 +10,9 @@ Se quiser gravar na flash do FPGA utilize o arquivo [timer_top.sof](output_files
 ## Assista aos tutoriais
 
 - Como fazer um relógio em VHDL:
+  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qZM5Y_XpYUw/0.jpg)](https://youtu.be/qZM5Y_XpYUw)
 
 - Utilizando procedimentos para simplificar o código:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1_igA52zbW8/0.jpg)](https://youtu.be/1_igA52zbW8)
