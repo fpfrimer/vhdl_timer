@@ -3,8 +3,9 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity decodificador is
+	 generic(maximo	:	integer := 60);
     port (
-        contador    :   in  integer;    -- pode ser h, m, s
+        contador    :   in  integer range 0 to maximo;    -- pode ser h, m, s
         dezena      :   out std_logic_vector(0 to 6);
         unidade     :   out std_logic_vector(0 to 6)
     );

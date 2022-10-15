@@ -22,9 +22,10 @@ begin
         port map(minuto, d_min, u_min);
 
     decod_h:    entity work.decodificador(rtl)
+		  generic map(24)
         port map(hora, d_hr, u_hr);
 
-    timer_0:    entity work.timer(rtl)
+    timer_0:    entity work.timer_procedimento(rtl)
         generic map(50e6)
         port map(clk, nRst, segundo, minuto, hora);    
     
