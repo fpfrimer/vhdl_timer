@@ -16,3 +16,15 @@ Se quiser gravar na flash do FPGA utilize o arquivo [timer_top.sof](output_files
 - Utilizando procedimentos para simplificar o código:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1_igA52zbW8/0.jpg)](https://youtu.be/1_igA52zbW8)
+
+- Como utilizar displays de 7-segmentos
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KxMwN8caHcs/0.jpg)](https://youtu.be/KxMwN8caHcs)
+
+- Programando o kit DE10 Lite:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NAj-0tva3gw/0.jpg)](https://youtu.be/NAj-0tva3gw)
+
+- Otimizando o código, cuidado com o tipo inteiro:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rQnEZ4PS1Dw/0.jpg)](https://youtu.be/rQnEZ4PS1Dw)
